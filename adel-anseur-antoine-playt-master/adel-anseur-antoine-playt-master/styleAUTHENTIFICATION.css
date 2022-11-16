@@ -1,0 +1,69 @@
+
+.logoécole {
+    display: inline-flex;
+}
+
+.internet{
+    float:right;
+} 
+
+.twitter{
+    float: right;
+}
+
+.facebook{
+    float:right
+}
+
+.gris{
+    text-align: center;
+    background-color: darkgray;
+    font-size: 50px;
+    color:darkgray;
+
+}
+
+
+.ident{
+    position:relative;
+    text-align: center;
+    color:darkblue;
+    size: 14cm;
+    position:fixed;
+    top:50%; left:30%;
+    z-index:1;
+}
+
+.mdp{
+    position: relative;
+    text-align: center;
+    color: darkblue;
+    size:14cm;
+    position:fixed;
+    top:55%; left:30.5%;
+    z-index:1;
+
+}
+.checkbox{
+    position:relative;
+    text-align: center;
+    position:fixed;
+    top:60%; left:30%;
+    z-index:1;
+}
+.connexion{
+    position:relative;
+    text-align: center;  
+    position:fixed;
+    top:60%; left:45%;
+    z-index:1;
+}
+.fondecran{
+    width: 100%;
+    padding: 100% 0 0 0 !important;
+    background: darkseagreen;
+  
+  } 
+  .tempo{
+    size: 20px;
+  }
